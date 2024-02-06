@@ -1,3 +1,6 @@
+Run 'Main_pipe' to execute all notebooks in order, the final dataset will be saved in 'data/minfinal.pkl.gz'
+CleanExplore displays the results, the graphs will also be in the Main output.
+
 Set start and end date in 'config.py', else it will default to 2023-01-01 to 2023-12-31.
 
 Due to filesize constraints, a smaller dataset containing only 2023 data is included.  
