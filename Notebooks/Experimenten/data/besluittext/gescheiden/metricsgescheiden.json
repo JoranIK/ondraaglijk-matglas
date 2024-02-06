@@ -1,0 +1,44 @@
+{
+  "token_acc":1.0,
+  "token_p":1.0,
+  "token_r":1.0,
+  "token_f":1.0,
+  "cats_score":0.7560456941,
+  "cats_score_desc":"macro F",
+  "cats_micro_p":0.7640449438,
+  "cats_micro_r":0.7640449438,
+  "cats_micro_f":0.7640449438,
+  "cats_macro_p":0.7497458925,
+  "cats_macro_r":0.7943480861,
+  "cats_macro_f":0.7560456941,
+  "cats_macro_auc":0.9320836119,
+  "cats_f_per_type":{
+    "openbaar":{
+      "p":0.5925925926,
+      "r":0.8421052632,
+      "f":0.6956521739
+    },
+    "deels openbaar":{
+      "p":0.9642857143,
+      "r":0.675,
+      "f":0.7941176471
+    },
+    "afgewezen":{
+      "p":0.6,
+      "r":0.8181818182,
+      "f":0.6923076923
+    },
+    "niet aanwezig":{
+      "p":0.8421052632,
+      "r":0.8421052632,
+      "f":0.8421052632
+    }
+  },
+  "cats_auc_per_type":{
+    "openbaar":0.9172932331,
+    "deels openbaar":0.956122449,
+    "afgewezen":0.9195804196,
+    "niet aanwezig":0.9353383459
+  },
+  "speed":4934.6323252337
+}

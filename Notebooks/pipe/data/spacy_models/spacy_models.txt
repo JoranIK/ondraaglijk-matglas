@@ -1,0 +1,5 @@
+The model is too large for GitHub at 500MB, download it from the following link:
+https://drive.google.com/drive/folders/1AzG_0rQbi4SYRyxSno41R8wCUszkRG-r?usp=drive_link
+
+Model used in this project:
+nl_besluit_gescheiden_lg
